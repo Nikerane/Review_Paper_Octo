@@ -1,4 +1,4 @@
-# Review_Paper_Octo
+# 🐙 Review_Paper_Octo
 
 **A Review of Octo: An Open-Source Generalist Robot Policy**  
 Written as part of the Learning-Based Control Seminar at Institute for Data Science in Mechanical Engineering, RWTH Aachen (Nov 2024 – Jan 2025)
