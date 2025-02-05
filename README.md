@@ -18,7 +18,7 @@ The full paper is available [here](https://github.com/Nikerane/Review_Paper_Octo
 
 ## Related Resources
 - [Original Octo Paper](https://octo-models.github.io/)
-- [Open X-Embodiment Dataset](https://open-x-embodiment.github.io/)
+- [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/)
 
 ## Citation
 
